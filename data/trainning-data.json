@@ -1,0 +1,518 @@
+[
+  {
+    "text": " jucosfer Olá pessoal!",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " lu Ola.",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " fernando Oi pessoal, boa noite!",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " lu Oi, Fernando.",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " jucosfer Boa noite!",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " rafael ola!",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " fabberrj2 estamos juntos e shallow now =)",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " cesarbastos Olá",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " carlinha olá",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " gimenez ola",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " marcelotibau boa noite",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " thiago2 Boa noite",
+    "category": "Boas Vindas"
+  },
+  {
+    "text": " carlinha rsrsrsrs",
+    "category": "Não classificado"
+  },
+  {
+    "text": " celow Tibau",
+    "category": "Não classificado"
+  },
+  {
+    "text": " carlinha Tibau? ",
+    "category": "Não classificado"
+  },
+  {
+    "text": " marcelotibau oi",
+    "category": "Não classificado"
+  },
+  {
+    "text": " pimentel caraca... e eu ainda estava lendo e escrevendo na sala 1! kkkk",
+    "category": "Não classificado"
+  },
+  {
+    "text": " lu Se perdeu, Pimentel?",
+    "category": "Não classificado"
+  },
+  {
+    "text": " carlinha obrigada, Rafael e Lucia. ",
+    "category": "Não classificado"
+  },
+  {
+    "text": " jem Olá!",
+    "category": "Não classificado"
+  },
+  {
+    "text": " cesarbastos essa fila de espera é muito chatinha..... né?",
+    "category": "Não classificado"
+  },
+  {
+    "text": " jucosfer Entendi",
+    "category": "Não classificado"
+  },
+  {
+    "text": " cleber entendi!",
+    "category": "Não classificado"
+  },
+  {
+    "text": " carlinha Jucosfer é Juliana né? Te chamei de Juliana e nem sei quem é",
+    "category": "Não classificado"
+  },
+  {
+    "text": " carlinha A foto tá pequena rs",
+    "category": "Não classificado"
+  },
+  {
+    "text": " jucosfer Jucosfer = Juliana sim =)",
+    "category": "Não classificado"
+  },
+  {
+    "text": " fernando %?%!RESET",
+    "category": "Não classificado"
+  },
+  {
+    "text": " fernando teste",
+    "category": "Não classificado"
+  },
+  {
+    "text": " carlinha a fila tem prioridade? Eu não to me vendo rs",
+    "category": "Não classificado"
+  },
+  {
+    "text": " cesarbastos voltando...",
+    "category": "Não classificado"
+  },
+  {
+    "text": " celow Terminou",
+    "category": "Não classificado"
+  },
+  {
+    "text": " marcelotibau pessoal no laboratório, podem descer",
+    "category": "Não classificado"
+  },
+  {
+    "text": " celow podem descer aqui por favor?",
+    "category": "Não classificado"
+  },
+  {
+    "text": " gimenez ok",
+    "category": "Não classificado"
+  },
+  {
+    "text": " fernando Solicito que abram uma segunda aba para a figura do link http://categoryarela.uniriotec.br/imagens/dsr2.png que norteará a discussão nesta segunda parte. Todos visualizaram a figura?",
+    "category": "Geral"
+  },
+  {
+    "text": " celow Pronto!",
+    "category": "Geral"
+  },
+  {
+    "text": " jucosfer Sim. estou visualizando",
+    "category": "Geral"
+  },
+  {
+    "text": " rafael feito!",
+    "category": "Geral"
+  },
+  {
+    "text": " lu Sim, Fernando.",
+    "category": "Geral"
+  },
+  {
+    "text": " marcelotibau imagem aberta",
+    "category": "Geral"
+  },
+  {
+    "text": " fabberrj2 sim",
+    "category": "Geral"
+  },
+  {
+    "text": " fernando De acordo com a figura 2, o qual é a proposta ciclo de relevância?",
+    "category": "Relevância"
+  },
+  {
+    "text": " lu Em um primeiro momento conhecer o contexto e o problema. Depois fazer a avaliação.",
+    "category": "Relevância"
+  },
+  {
+    "text": " celow Acho que esse ciclo está relacionado com a Pergunta do Tibau no chat anterior sobre se a avaliação deve ser apenas de requisitos ou também social.",
+    "category": "Relevância"
+  },
+  {
+    "text": " marcelotibau para mim, está ligado ao problema a que o artefato vai tratar",
+    "category": "Relevância"
+  },
+  {
+    "text": " fernando Entendo que ele norteia o design (aponta os problemas e sua relevancia) e também é utilizado para ser alimentado pelo artefato",
+    "category": "Relevância"
+  },
+  {
+    "text": " carlinha O que significa KB mesmo?",
+    "category": "Relevância"
+  },
+  {
+    "text": " cleber introduzir artefatos que promovam inovação e que seu impacto possa ser mensurado.",
+    "category": "Relevância"
+  },
+  {
+    "text": " cesarbastos a são as construção do artefato são baseadas em conjecturas teóricas e os ciclos servem para sua consolidação",
+    "category": "Relevância"
+  },
+  {
+    "text": " fabberrj2 o ciclo reforça a necessidade de testar e mensurar",
+    "category": "Relevância"
+  },
+  {
+    "text": " jucosfer Ao meu ver a proposta ciclo de relevância é fortalecer a utilidade do artefato produzido com base na sua aplicação em determinado contexto. ",
+    "category": "Relevância"
+  },
+  {
+    "text": " pimentel Cleber, a mensuração é do universo positivista. Pesquisas interpretativas não buscam mensurar, mas sim compreender.",
+    "category": "Relevância"
+  },
+  {
+    "text": " fernando o ciclo de relevancia.. envolve pessoas, problemas e oportunidades ",
+    "category": "Relevância"
+  },
+  {
+    "text": " gimenez o teste de campo envolve participantes da realidade/contexto do problema. Eles que contribuirão para a relevância",
+    "category": "Relevância"
+  },
+  {
+    "text": " cesarbastos a proposta ciclo de relevância não seria validar as conjecturas?",
+    "category": "Relevância"
+  },
+  {
+    "text": " gimenez O papel do pesquisador não é dominante durante esse ciclo.",
+    "category": "Relevância"
+  },
+  {
+    "text": " celow O ciclo de relevância busca validar o artefato em seu contexto e seus requisitos, ou seja: O artefato funciona? AND O artefato cumpre com o que promete?",
+    "category": "Relevância"
+  },
+  {
+    "text": " pimentel Sim, Jucosfer, também entendo que o ciclo da relevância é para caracterizar/investigar a utilidade de um artefato para resolver um dado problema num dado contexto.",
+    "category": "Relevância"
+  },
+  {
+    "text": " carlinha Mas é que no universo positivista o rigor está atrelado à mensuração. E no nosso universo, Pimentel? Como convencer as pessoas de que a pesquisa qualitativa tem rigor, além de relevância?",
+    "category": "Relevância"
+  },
+  {
+    "text": " lu Por que não, Gimenez?",
+    "category": "Relevância"
+  },
+  {
+    "text": " gimenez O teste de campo naturalmente contribuirá para estreitar o artefato frente a realidade que pretende tratar.",
+    "category": "Relevância"
+  },
+  {
+    "text": " gimenez O pesquisar não pode influenciar os testes. Ele tem um papel mais observador, para capturar os conhecimentos durante a utilização do artefato. ",
+    "category": "Relevância"
+  },
+  {
+    "text": " gimenez O impacto do artefato no grupo, gera uma realimentação para o pesquisador sobre questões comportamentais da realidade sendo tratada. Isso pode refletir na mudança do artefato...",
+    "category": "Relevância"
+  },
+  {
+    "text": " jucosfer Fernando, o ciclo do rigor está ligado ao alinhamento ao corpo de conhecimento existente e também à produção/documentação de novos conhecimentos gerados por meio do ciclo  de relevância... ",
+    "category": "Relevância"
+  },
+  {
+    "text": " fernando Juliana está tudo interligado, todos os ciclos rolando ao mesmo tempo.. nada acontece sozinho, um influencia o outro... ",
+    "category": "Relevância"
+  },
+  {
+    "text": " carlinha O que significa KB mesmo?",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " fernando Knowledge Base imagino, base de conhecimento",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " celow carla, base de conhecimento",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " rafael knowledge base, carla? acho q eh isso..",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " lu Knowledge Base, Carla.",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " gimenez O impacto do artefato no grupo, gera uma realimentação para o pesquisador sobre questões comportamentais da realidade sendo tratada. Isso pode refletir na mudança do artefato...",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " lu O rigor está no embasamento e na contribuição à base de conhecimento, não, Fernando?",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " pimentel Ciclo do Rigor tem a ver, ao meu entender, com o Rigor Teórico. Espera-se que as pesquisas dêem contribuições para a base de conhecimento sobre comportamento, para além das contribuições técnicas.",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " gimenez Lembrando que o artefato aplicado tem que gerar conhecimento, então esse conhecimento vai integrar uma base de conhecimento existente, e para isso, tem que ser bem fundamentado. Será que é realmente um conhecimento?",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " jucosfer Fernando, o ciclo do rigor está ligado ao alinhamento ao corpo de conhecimento existente e também à produção/documentação de novos conhecimentos gerados por meio do ciclo  de relevância... ",
+    "category": "Knowledge Base"
+  },
+  {
+    "text": " pimentel Cleber, a mensuração é do universo positivista. Pesquisas interpretativas não buscam mensurar, mas sim compreender.",
+    "category": "Positivismo"
+  },
+  {
+    "text": " carlinha Mas é que no universo positivista o rigor está atrelado à mensuração. E no nosso universo, Pimentel? Como convencer as pessoas de que a pesquisa qualitativa tem rigor, além de relevância?",
+    "category": "Positivismo"
+  },
+  {
+    "text": " fabberrj2 Pimentel, na DSR é possível realizar um ciclo positivista e outro, interpretativista?",
+    "category": "Positivismo"
+  },
+  {
+    "text": " pimentel Gimenez, isso só é válido nas pesquisas positivistas, em que o pesquisador é uma \"ameça\", pois pode contaminar o estudo. Nas pesquisas qualitativas, o repertório teórico do pesquisador é fundamental para a compreensão do fenômeno, então o pesquisador é essencial, e não uma ameaça.",
+    "category": "Positivismo"
+  },
+  {
+    "text": " pimentel Cleber, a mensuração é do universo positivista. Pesquisas interpretativas não buscam mensurar, mas sim compreender.",
+    "category": "Interpretativismo"
+  },
+  {
+    "text": " carlinha Mas é que no universo positivista o rigor está atrelado à mensuração. E no nosso universo, Pimentel? Como convencer as pessoas de que a pesquisa qualitativa tem rigor, além de relevância?",
+    "category": "Interpretativismo"
+  },
+  {
+    "text": " fabberrj2 Pimentel, na DSR é possível realizar um ciclo positivista e outro, interpretativista?",
+    "category": "Interpretativismo"
+  },
+  {
+    "text": " cesarbastos a são as construção do artefato são baseadas em conjecturas teóricas e os ciclos servem para sua consolidação",
+    "category": "Conjecturas"
+  },
+  {
+    "text": " cesarbastos a proposta ciclo de relevância não seria validar as conjecturas?",
+    "category": "Conjecturas"
+  },
+  {
+    "text": " fernando entendo que também cesar e gimenez! mas como começamos a pesquisar? como temos conjecturas?",
+    "category": "Conjecturas"
+  },
+  {
+    "text": " carlinha Mas é que no universo positivista o rigor está atrelado à mensuração. E no nosso universo, Pimentel? Como convencer as pessoas de que a pesquisa qualitativa tem rigor, além de relevância?",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " pimentel Carla, costumamos dizer que a pesquisa qualitativa tem um \"rigor outro\", não no sentido de adição (um outro rigor), mas sim no sentido de diferença (o rigor é de outra natureza). Como rigor: autenticidade, plausibilidade, criticidade, etc",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " jucosfer Carla, a pesquisa qualitativa com embasamento científico das teorias comportamentais não convence? Eu penso que sim.... ou ao menos é um caminho...",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " marcelotibau acho que este convencimento está atrelado às teorias que embasam o artefato e o comportamento que ele atua",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " pimentel Gimenez, isso só é válido nas pesquisas positivistas, em que o pesquisador é uma \"ameça\", pois pode contaminar o estudo. Nas pesquisas qualitativas, o repertório teórico do pesquisador é fundamental para a compreensão do fenômeno, então o pesquisador é essencial, e não uma ameaça.",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " celow Essa parte de demonstrar rigor nas pesquisas qualitativas talvez seja um dos grandes desafios de DSR",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " fernando Celow concordo... é dificil a condução de uma pesquisa, basear ela em teorias e mais dificil ainda é contribuir com essas teorias",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " pimentel Celow, o rigor nas pesquisas qualitativas não tem a ver com métodos estatísticos, tamanho da amostra, distanciamento do pesquisador. O rigor é outro, não é medido. Nas pesquisas qualitativos, o rigor tem a ver com a qualidade dos dados e plausabilidade das interpretações.",
+    "category": "Pesquisa Qualitativa"
+  },
+  {
+    "text": " carlinha Mas é que no universo positivista o rigor está atrelado à mensuração. E no nosso universo, Pimentel? Como convencer as pessoas de que a pesquisa qualitativa tem rigor, além de relevância?",
+    "category": "DSR"
+  },
+  {
+    "text": " cesarbastos o ciclo de relevância inicializa a DSR e amarra o contexto",
+    "category": "DSR"
+  },
+  {
+    "text": " fabberrj2 Pimentel, na DSR é possível realizar um ciclo positivista e outro, interpretativista?",
+    "category": "DSR"
+  },
+  {
+    "text": " celow Essa parte de demonstrar rigor nas pesquisas qualitativas talvez seja um dos grandes desafios de DSR",
+    "category": "DSR"
+  },
+  {
+    "text": " gimenez O rigor tem que estar na condução do processo (DSR), na análise a partir do que foi coletado na aplicação e uso do artefato, e na fundamentação (como dito pelo Pimentel) das interpretações...",
+    "category": "DSR"
+  },
+  {
+    "text": " lu E o processo é iterativo.",
+    "category": "DSR"
+  },
+  {
+    "text": " carlinha Juliana, não sei se é suficiente. Se eu tiver com minhas teorias super embasadas mas não souber analisar, não tem rigor",
+    "category": "Rigor"
+  },
+  {
+    "text": " fernando Pessoal e o ciclo de rigor, onde ele entra?? que contribuições ele traz..",
+    "category": "Rigor"
+  },
+  {
+    "text": " celow Essa parte de demonstrar rigor nas pesquisas qualitativas talvez seja um dos grandes desafios de DSR",
+    "category": "Rigor"
+  },
+  {
+    "text": " cesarbastos o ciclo do rigor exige um conhecimento prévio para garantir a inovação",
+    "category": "Rigor"
+  },
+  {
+    "text": " marcelotibau Fernando, o ciclo do rigor está ligado ao embasamento teórico e às contribuições",
+    "category": "Rigor"
+  },
+  {
+    "text": " lu O rigor está no embasamento e na contribuição à base de conhecimento, não, Fernando?",
+    "category": "Rigor"
+  },
+  {
+    "text": " celow O ciclo de rigor busca relacionar o artefato com embasamento teórico (agora sim) e teorias científicas",
+    "category": "Rigor"
+  },
+  {
+    "text": " cesarbastos é neste ciclo que se avalia o artefato",
+    "category": "Rigor"
+  },
+  {
+    "text": " thiago2 Acredito que fazer pesquisa com rigor é um desafio para qualquer abordagem ou área científica.",
+    "category": "Rigor"
+  },
+  {
+    "text": " pimentel Ciclo do Rigor tem a ver, ao meu entender, com o Rigor Teórico. Espera-se que as pesquisas dêem contribuições para a base de conhecimento sobre comportamento, para além das contribuições técnicas.",
+    "category": "Rigor"
+  },
+  {
+    "text": " carlinha Pimentel, o rigor está na condução do método, na escolha do método ou na análise? Ou em tudo? rs",
+    "category": "Rigor"
+  },
+  {
+    "text": " fernando Cesar entendo que nesse ciclo o artefato seja pensado e fundamentado, e posteriormente os resultados fundamente alterações no proprio artefato ou em outros.. através de contribuição teórica.",
+    "category": "Rigor"
+  },
+  {
+    "text": " pimentel Celow, o rigor nas pesquisas qualitativas não tem a ver com métodos estatísticos, tamanho da amostra, distanciamento do pesquisador. O rigor é outro, não é medido. Nas pesquisas qualitativos, o rigor tem a ver com a qualidade dos dados e plausabilidade das interpretações.",
+    "category": "Rigor"
+  },
+  {
+    "text": " carlinha Pimentel, rigor teórico? Really? E o rigor metodológico?",
+    "category": "Rigor"
+  },
+  {
+    "text": " fernando Juliana está tudo interligado, todos os ciclos rolando ao mesmo tempo.. nada acontece sozinho, um influencia o outro... ",
+    "category": "Rigor"
+  },
+  {
+    "text": " jucosfer @Carla, eu penso que o rigor deve estar nos dois casos",
+    "category": "Rigor"
+  },
+  {
+    "text": " carlinha Juliana, também penso.",
+    "category": "Rigor"
+  },
+  {
+    "text": " gimenez O rigor tem que estar na condução do processo (DSR), na análise a partir do que foi coletado na aplicação e uso do artefato, e na fundamentação (como dito pelo Pimentel) das interpretações...",
+    "category": "Rigor"
+  },
+  {
+    "text": " jucosfer certo, Fernando",
+    "category": "Rigor"
+  },
+  {
+    "text": " pimentel Carla, diferenciamos rigor teórico do rigor metodológico. Mas, sim, tudo é rigor. Rigor é \"poder acreditar\", é o grau com que posso confiar nos resultados obtidos. Assim, entendemos que a confiança depende tanto da sistematização do método quanto no quadro teórico que fundamenta a pesquisa. Tudo pre",
+    "category": "Rigor"
+  },
+  {
+    "text": " cesarbastos concordo com Gimenez no ciclo de Rigor as experiências também são incorporadas a base de conhecimento.",
+    "category": "Rigor"
+  },
+  {
+    "text": " celow Entendo Pimentel, e isso me faz crer mais ainda na dificuldade de apresentar essa ideia para um contexto positivista pois vejo muita subjetividade nesse rigor.",
+    "category": "Rigor"
+  },
+  {
+    "text": " marcelotibau aquela pergunta de avaliação do ciclo rigor já dá uma dica: as conjecturas teóricas parecem válidas?",
+    "category": "Rigor"
+  },
+  {
+    "text": " carlinha Marcelo, você só saberá se são validas no final.",
+    "category": "Rigor"
+  },
+  {
+    "text": " jem Concordo com o Celow que o rigor no contexto da pesquisa qualitativa é muito subjetivo.",
+    "category": "Rigor"
+  },
+  {
+    "text": " carlinha Não dentro do ciclo...",
+    "category": "Rigor"
+  },
+  {
+    "text": " cesarbastos o ciclo do rigor exige um conhecimento prévio para garantir a inovação",
+    "category": "Inovação"
+  },
+  {
+    "text": " carlinha Cesar, mas e se for de mestrado? A inovação não é sine qua non",
+    "category": "Inovação"
+  },
+  {
+    "text": " cesarbastos Carlinha, sim. Mas exigem uma pesquisa.",
+    "category": "Inovação"
+  },
+  {
+    "text": " celow Não acho que inovação seja um termo intrinsecamente ligado a pesquisa científica",
+    "category": "Inovação"
+  }
+]
